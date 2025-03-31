@@ -11,7 +11,9 @@ The repository contains:
 
     The code is an extension of previously published method called Rhythmic Entrainment Source Separation (RESS; Cohen and Gulbinaite, 2017 PMID: 27916666): https://github.com/mikexcohen/RESS 
 
-2. **Sample dataset** to be used with the code can be found here: https://osf.io/7s2vp/
+##
+### Dataset 
+**Sample dataset** to be used with the code can be found here: https://osf.io/7s2vp/
 
    Dataset is in EEGLAB format. Epochs: -1 to 9 sec, where 0 us the cue onset.
    Trial markers are organized as follows (cue location / LED state / cue validity):
