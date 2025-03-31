@@ -12,9 +12,9 @@ The repository contains:
 
     The code is an extension of previously published method called Rhythmic Entrainment Source Separation (RESS; Cohen and Gulbinaite, 2017 PMID: 27916666): https://github.com/mikexcohen/RESS 
 
-2. **Sample dataset**, which was pre-processed as described in the paper.
+2. **Sample dataset** to be used with the code can be found here: https://osf.io/7s2vp/
 
-   Brief description: Dataset is in EEGLAB format (https://sccn.ucsd.edu/eeglab/index.php). Epochs: -1 to 9 sec, where 0 us the cue onset.
+   Dataset is in EEGLAB format. Epochs: -1 to 9 sec, where 0 us the cue onset.
    Trial markers are organized as follows (cue location / LED state / cue validity):
    * Attend Left/ Flicker/ Valid - 193
    * Attend Left/ Flicker/ Invalid - 194
