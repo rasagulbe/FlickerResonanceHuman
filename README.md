@@ -3,13 +3,10 @@
 ### Rasa Gulbinaite, Diane H. M. Roozendaal, Rufin VanRullen, 2019, _NeuroImage_, 203:116146
 #### DOI: [https://doi.org/10.1016/j.neuroimage.2019.116146](https://doi.org/10.1016/j.neuroimage.2019.116146)
 ##
-The repository contains:
-
-1. **MATLAB code** used to: 
-    * construct frequency-specific spatiotemporal filters that isolate steady-state evoked potentials (SSEPs) from endogenous brain activity; 
-    * estimate statistical reliability of SSEP responses by constructing frequency-specific spatiotemporal filters using trials, on which neither flicker frequency nor its harmonics were present.
-
-    The code is an extension of previously published method called Rhythmic Entrainment Source Separation (RESS; Cohen and Gulbinaite, 2017 PMID: 27916666): https://github.com/mikexcohen/RESS 
+### The repository contains MATLAB code for:
+1. Constructing frequency-specific spatiotemporal filters that isolate steady-state evoked potentials (SSEPs) from endogenous brain activity;
+2. Estimating statistical reliability of SSEP responses by constructing frequency-specific spatiotemporal filters using trials, on which neither flicker frequency nor its harmonics were present.
+The code is an extension of previously published method called Rhythmic Entrainment Source Separation (RESS; Cohen and Gulbinaite, 2017 PMID: 27916666): https://github.com/mikexcohen/RESS 
 
 ##
 ### Dataset 
