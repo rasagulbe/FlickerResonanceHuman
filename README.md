@@ -3,6 +3,8 @@
 ### Rasa Gulbinaite, Diane H. M. Roozendaal, Rufin VanRullen, 2019, _NeuroImage_, 203:116146
 #### DOI: [https://doi.org/10.1016/j.neuroimage.2019.116146](https://doi.org/10.1016/j.neuroimage.2019.116146)
 ##
+![Github_FlickerHuman](https://github.com/user-attachments/assets/51c3a0e1-ca14-47d7-9e71-1b5827a054be)
+##
 ### The repository contains MATLAB code for:
 1. Constructing frequency-specific spatiotemporal filters that isolate steady-state evoked potentials (SSEPs) from endogenous brain activity;
 2. Estimating statistical reliability of SSEP responses by constructing frequency-specific spatiotemporal filters using trials, on which neither flicker frequency nor its harmonics were present.
