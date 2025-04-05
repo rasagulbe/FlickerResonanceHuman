@@ -1,4 +1,4 @@
-#### The code accompanying the publication: 
+Code accompanying the publication: 
 ### [Attention differentially modulates the amplitude of resonance frequencies in the visual cortex](https://www.sciencedirect.com/science/article/abs/pii/S1053811919307372)
 #### Rasa Gulbinaite, Diane H. M. Roozendaal, Rufin VanRullen, 2019, _NeuroImage_, 203:116146
 ##### DOI: [https://doi.org/10.1016/j.neuroimage.2019.116146](https://doi.org/10.1016/j.neuroimage.2019.116146)
